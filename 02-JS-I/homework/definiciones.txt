@@ -1,0 +1,9 @@
+// Variable : Es una caja donde almacenamos algo para usarlo despues
+
+// Strings : Son cajas de texto.
+
+// Funciones: Las funciones nos permiten poner en funcionamiento o ejecutar algo.
+
+// Return : Es la respuesta que nos devuelve una funcion.
+
+// Valores Booleanos : Son valores que pueden ser unicamente "verdadero/true" o "falso/false"
