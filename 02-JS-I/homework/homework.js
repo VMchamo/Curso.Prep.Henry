@@ -41,7 +41,7 @@ function suma(x, y){
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  return y-x;
+  return x-y;
 }
 
 function multiplica(x, y) {
@@ -102,7 +102,7 @@ if(num > 50){
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
- return x % y;
+ return x%y;
 }
 
 function esPar(num) {
@@ -161,7 +161,7 @@ function redondearHaciaArriba(num) {
 function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
   //Pista: investigá qué hace el método Math.random()
-  
+  return Math.random();
 }
 
 function esPositivo(numero) {
@@ -176,7 +176,7 @@ function esPositivo(numero) {
   }
     return "Es negativo";
   }
-}
+
 
 function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
